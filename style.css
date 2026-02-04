@@ -1,7 +1,11 @@
 * {box-sizing: border-box;}
 
+body{
+    background-color: bisque;
+}
+
 .tartalom {
     background-color: beige;
     margin: auto;
-    width: 100%;
+
 }
